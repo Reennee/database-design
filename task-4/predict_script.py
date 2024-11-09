@@ -3,8 +3,8 @@ import pickle
 import numpy as np
 import tensorflow as tf
 
-# Define the base URL for your FastAPI application.
-# This URL is where the API is hosted and will be used to fetch data.
+
+# URL for API to fetch data.
 base_url = "https://database-design-yyzk.onrender.com"
 
 # endpoint to fetch all loans.
